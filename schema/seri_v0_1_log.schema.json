@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SERI v0.1 Log",
+  "type": "object",
+  "properties": {
+    "run_id": {"type": "string"},
+    "model": {"type": "string"},
+    "scenario": {"type": "string"},
+    "seed": {"type": "integer"},
+    "tau_hat": {"type": ["number","null"]},
+    "coherence": {"type": ["number","null"]},
+    "RCI": {"type": ["number","null"]},
+    "DSI": {"type": ["number","null"]},
+    "HSM": {"type": ["number","null"]},
+    "SOR": {"type": ["number","null"]},
+    "ETT": {"type": ["number","null"]}
+  },
+  "required": ["run_id","model","scenario","seed"]
+}
