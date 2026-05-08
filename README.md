@@ -1,5 +1,5 @@
 # SERI v0.1 — Structural Ethics Readiness Index (ENT-Aligned)
-
+## <Context:> [Review ENT Repo](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT#please-read-message-below) first..
 **SERI v0.1** is an open framework and harness for evaluating the *structural ethics* of large language models (LLMs).  
 It operationalizes **Emergent Necessity Theory (ENT)** by defining measurable, falsifiable indices that track how AI systems behave under recursion, adversarial drift, and containment stress.
 
